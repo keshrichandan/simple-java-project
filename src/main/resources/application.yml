@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: simple-java-project
+server:
+  port: 8081
